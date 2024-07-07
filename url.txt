@@ -1,0 +1,2 @@
+Dataset Source (file: bank-full.csv) : https://archive.ics.uci.edu/dataset/222/bank+marketing
+Huggingface Deployment : https://huggingface.co/spaces/naufalbudianto28/milestone2
