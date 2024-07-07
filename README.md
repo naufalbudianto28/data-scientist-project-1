@@ -42,4 +42,4 @@ Apart from making classification predictions, this program aims to assist the Te
 ## Link
 * [Dataset Source (file: bank-full.csv)](https://archive.ics.uci.edu/dataset/222/bank+marketing)
 * [Deployment URL](https://huggingface.co/spaces/naufalbudianto28/milestone2)
-* [Website](https://datawithnaufal.com)
+* [My Other Portfolio](https://datawithnaufal.com)
