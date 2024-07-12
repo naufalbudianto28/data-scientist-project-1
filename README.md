@@ -17,7 +17,8 @@ Apart from making classification predictions, this program aims to assist the Te
 ## Skill 
 
 * Data Scientist
-* Machine Learning 
+* Machine Learning
+* Prediction 
 * Classification 
 * Regression 
 * Hyperparameter Tuning 
@@ -36,6 +37,7 @@ Apart from making classification predictions, this program aims to assist the Te
 * Sklearn
 * Pipeline 
 * GridSearch
+* Cross-Validation
 
 ---
 
